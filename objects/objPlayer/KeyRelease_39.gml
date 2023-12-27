@@ -3,7 +3,7 @@
 right_key_pressed = 0;
 if (left_key_pressed == 1)
 {
-	image_xscale = abs(image_xscale);
+	//image_xscale = abs(image_xscale);
 	movement_flag = 0;
 	alarm_set(0, 1);
 }

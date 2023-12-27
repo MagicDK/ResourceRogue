@@ -15,11 +15,15 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"RoomTransitions","order":1,"path":"folders/Objects/RoomTransitions.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"room3_Path","order":3,"path":"rooms/room3_Path/room3_Path.yy",},
+    {"name":"room2_Shop","order":2,"path":"rooms/room2_Shop/room2_Shop.yy",},
     {"name":"PathTile","order":1,"path":"sprites/PathTile/PathTile.yy",},
     {"name":"Grass1Tile","order":2,"path":"sprites/Grass1Tile/Grass1Tile.yy",},
-    {"name":"NewPlayer","order":1,"path":"sprites/NewPlayer/NewPlayer.yy",},
+    {"name":"sprNewPlayer","order":1,"path":"sprites/sprNewPlayer/sprNewPlayer.yy",},
+    {"name":"room1_Tree","order":1,"path":"rooms/room1_Tree/room1_Tree.yy",},
+    {"name":"sprRoomTransitionCollisionBox","order":2,"path":"sprites/sprRoomTransitionCollisionBox/sprRoomTransitionCollisionBox.yy",},
   ],
 }

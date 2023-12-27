@@ -44,8 +44,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "NewPlayer",
-    "path": "sprites/NewPlayer/NewPlayer.yy",
+    "name": "sprNewPlayer",
+    "path": "sprites/sprNewPlayer/sprNewPlayer.yy",
   },
   "spriteMaskId": null,
   "visible": true,
